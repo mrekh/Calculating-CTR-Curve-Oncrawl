@@ -1,2 +1,1 @@
-# Calculating-CTR-Curve-Oncrawl
-The Jupyter notebook for Oncrawl CTR curve article
+# Calculating CTR Curve Jupyter Notebook for Oncrawl Article
